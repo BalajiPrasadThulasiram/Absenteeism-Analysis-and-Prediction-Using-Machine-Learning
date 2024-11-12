@@ -1,7 +1,7 @@
-# Absenteeism-Analysis-and-Prediction-Using-Machine-Learning
+# Absenteeism Analysis Project
 
 ## Overview
-This project aims to analyze employee absenteeism using machine learning models and generate insights through data visualization. It integrates Python, SQL, and Tableau for end-to-end analysis.
+This project analyzes employee absenteeism using machine learning models, providing insights through data visualization. It integrates Python, SQL, and Tableau for end-to-end analysis.
 
 ## Project Structure
 - **Data Files**:
@@ -17,16 +17,15 @@ This project aims to analyze employee absenteeism using machine learning models 
   - `Python_SQL_Tableau_Absenteeism-data.ipynb`: Combine SQL queries and Tableau for visualization.
 
 ## Key Tools & Technologies
-- **Programming**: Python (pandas, scikit-learn, etc.)
+- **Programming**: Python (pandas, scikit-learn)
 - **Database**: MySQL
 - **Visualization**: Tableau
 - **Project Management**: Jupyter Notebooks
 
 ## How to Use
-1. Run `ML_to_Preprocessed_Data.ipynb` to generate predictions from preprocessed data.
-2. Use `Integration_with_MySQL.ipynb` to connect to the MySQL database and store predictions.
-3. Visualize results in Tableau using the provided dataset and dashboards.
+1. Run `ML_to_Preprocessed_Data.ipynb` to preprocess data and generate predictions.
+2. Use `Integration_with_MySQL.ipynb` to store predictions in the MySQL database.
+3. Visualize results in Tableau using the provided datasets and dashboards.
 
 ## Author
-This project is created by Balaji Prasad Thulasiram
-
+Created by **Balaji Prasad Thulasiram**
